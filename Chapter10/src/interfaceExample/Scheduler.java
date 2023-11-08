@@ -1,4 +1,4 @@
-package interfaceEx;
+package interfaceExample;
 
 public interface Scheduler {
 	void getNextCall();

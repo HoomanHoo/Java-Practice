@@ -1,6 +1,6 @@
-package interfaceEx;
+package interfaceExample;
 
-public abstract class Calcurator implements Calc{
+public abstract class Calcurator implements Calc {
 
 	@Override
 	public int add(int num1, int num2) {
@@ -11,7 +11,5 @@ public abstract class Calcurator implements Calc{
 	public int substract(int num1, int num2) {
 		return num1 - num2;
 	}
-
-	
 
 }
